@@ -1,12 +1,12 @@
-# 🧠 React Workshop – Intro Project
+#  React Workshop – Intro Project
 
 This is a mini React project created for the **“Introduction to React.js”** workshop hosted by Micro Club.
 
 ## 🚀 Features
 
-- ✅ Timer that counts down from 25 minutes and auto-resets (Pomodoro-style)
-- ❤️ Like button that counts clicks
-- 📚 Covers key React concepts:
+- ->Timer that counts down from 25 minutes and auto-resets (Pomodoro-style)
+- -> Like button that counts clicks
+- -> Covers key React concepts:
   - JSX
   - Components
   - Props
